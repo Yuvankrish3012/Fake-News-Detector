@@ -90,15 +90,6 @@ Edit
 
 ---
 
-## 📥 Download Model
-
-Since the `.pkl` files are large, download them from the Google Drive link:
-
-📎 [Download `fake_news_model.pkl` and `tfidf_vectorizer.pkl`](https://drive.google.com/your-model-link-here)  
-🔐 _Place them in the root directory of this project before running._
-
----
-
 ## 🚀 How to Run Locally
 
 ### 🛠 Prerequisites:
